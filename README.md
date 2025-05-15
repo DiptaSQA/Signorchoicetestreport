@@ -24,14 +24,13 @@ Usability test to identify broken links or errors
 
 **Compatibility Testing:** Cross-browser, different environment, and device responsiveness 
 
-| Test Case ID | Test Scenario  | Issues        | Severity      |  Priority      |   Recommendation      |
+| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
+| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
-| git status   | git status     | git status    | git status    |    git status  |   Recommendation      |
+| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
-| git status   | git status     | git status    | git status    |    git status  |   Recommendation      |
+| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
-| git status   | git status     | git status    | git status    |    git status  |   Recommendation      |
-
-| git status   | git status     | git status    | git status    |    git status  |   Recommendation      |
+| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
