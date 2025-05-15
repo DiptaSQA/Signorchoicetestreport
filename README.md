@@ -25,6 +25,7 @@ Usability test to identify broken links or errors
 **Compatibility Testing:** Cross-browser, different environment, and device responsiveness 
 
 | Test Case ID | Test Scenario  | Issues        | Severity      |  Priority      |   Recommendation      |
+
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
