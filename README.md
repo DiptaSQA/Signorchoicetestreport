@@ -45,10 +45,10 @@ Environment Setup
 Tool: Apache JMeter 5.6.3, Grafana, K6
 Concurrency Levels Tested: 10, 50, 100 users and peak load = 500 users
 
-**Tested Endpoints: **
-Homepage
-Product Listing
-Login
+Tested Endpoints:
+Homepage,
+Product Listing,
+Login,
 Checkout
 
 **Test Results**
