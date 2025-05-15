@@ -24,17 +24,11 @@ Usability test to identify broken links or errors
 
 **Compatibility Testing:** Cross-browser, different environment, and device responsiveness 
 
-| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
-| SCTC001      | User/Account Registration and Login  |     The registration form lacks client-side validation for email format and password strength
-No confirmation email is sent upon registration
-    | Medium and Low      |  High and Medium      |   Implement real-time validation to guide during input
-Integrate email verification to confirm user authenticity
-      |
 
-| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
+4. Test Cases
 
-| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
+4.1 Functional Testing(User Role: Customer)
 
-| Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
+![g1](https://github.com/user-attachments/assets/1653d06e-d66c-4742-877b-cc1499f9c784)
