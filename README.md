@@ -28,7 +28,9 @@ Usability test to identify broken links or errors
 
 | SCTC001      | User/Account Registration and Login  |     The registration form lacks client-side validation for email format and password strength
 No confirmation email is sent upon registration
-    | Severity      |  Priority      |   Recommendation      |
+    | Medium and Low      |  High and Medium      |   Implement real-time validation to guide during input
+Integrate email verification to confirm user authenticity
+      |
 
 | Test Case ID | Test Scenario  |     Issues    | Severity      |  Priority      |   Recommendation      |
 
