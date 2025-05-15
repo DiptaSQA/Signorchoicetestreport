@@ -26,9 +26,34 @@ Usability test to identify broken links or errors
 
 
 
-4. Test Cases
+**Test Cases**
 
-4.1 Functional Testing(User Role: Customer)
+**Functional Testing(User Role: Customer)**
 
 
 ![g1](https://github.com/user-attachments/assets/1653d06e-d66c-4742-877b-cc1499f9c784)
+
+
+**Usability Testing**
+
+![g2](https://github.com/user-attachments/assets/d656873b-0e84-4600-b18c-f9441a4274b1)
+
+
+**Performance and Load Testing(Jmeter)**
+
+Environment Setup
+Tool: Apache JMeter 5.6.3, Grafana, K6
+Concurrency Levels Tested: 10, 50, 100 users and peak load = 500 users
+
+**Tested Endpoints: **
+Homepage
+Product Listing
+Login
+Checkout
+
+**Test Results**
+
+
+![g3](https://github.com/user-attachments/assets/d352ed21-00c2-48b7-94b3-b93be47dde46)
+
+
